@@ -1,6 +1,1 @@
-Proyecto de Sistemas Operativos. 
-
-
-
-
----- Aqui agregare documentacion ----
+Proyecto de Sistemas Operativos.-
