@@ -1,1 +1,1 @@
-Proyecto de Sistemas Operativos.-
+Proyecto de Estructuras Discretas. 
